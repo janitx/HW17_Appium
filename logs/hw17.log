@@ -1,0 +1,6 @@
+2022-06-23 17:14:47,795 [main] INFO  reports.SuiteListenerReport - SuiteListener.onStart() -> Suite Test #17
+2022-06-23 17:15:09,855 [main] INFO  reports.TestListenerReport - On test success -> CheckCartTest.deleteItemFromCart()
+2022-06-23 17:15:16,439 [main] INFO  reports.TestListenerReport - On test success -> CheckCartTest.addItemToCart()
+2022-06-23 17:15:21,709 [main] INFO  reports.TestListenerReport - Монітор 34" Samsung Odyssey G5 LC34G55T Black (LC34G55TWWIXCI)
+2022-06-23 17:15:21,710 [main] INFO  reports.TestListenerReport - On test success -> SearchCatalogTest.searchCatalog()
+2022-06-23 17:15:24,329 [main] INFO  reports.SuiteListenerReport - SuiteListener.onFinish() -> Suite Test #17
